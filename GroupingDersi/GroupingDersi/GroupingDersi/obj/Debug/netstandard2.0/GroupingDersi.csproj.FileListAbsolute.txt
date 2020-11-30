@@ -1,0 +1,15 @@
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\GroupingDersi.csprojAssemblyReference.cache
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\Views\PersonOverviewPage.xaml.g.cs
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\GroupingDersi.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\GroupingDersi.AssemblyInfo.cs
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\GroupingDersi.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\GroupingDersi.dll
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\ref\GroupingDersi.dll
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\GroupingDersi.pdb
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\bin\Debug\netstandard2.0\GroupingDersi.deps.json
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\bin\Debug\netstandard2.0\GroupingDersi.dll
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\bin\Debug\netstandard2.0\ref\GroupingDersi.dll
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\bin\Debug\netstandard2.0\GroupingDersi.pdb
+C:\Users\aymus\source\repos\GroupingDersi\GroupingDersi\GroupingDersi\obj\Debug\netstandard2.0\XamlC.stamp
