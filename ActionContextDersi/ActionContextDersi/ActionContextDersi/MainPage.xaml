@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ActionContextDersi.MainPage">
+
+    <StackLayout>
+        <ListView x:Name="lstPerson" SelectedItem="{Binding SelectedPerson}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Duzenle" Clicked="MenuItem_Clicked" CommandParameter="{Binding Name}" IsDestructive="True"/>
+                            <MenuItem Text="Sil" Clicked="MenuItem_Clicked_1" CommandParameter="{Binding Name}" IsDestructive="True"/>
+                        </ViewCell.ContextActions>
+                        <StackLayout>
+                            <Label Text="{Binding Name}"/>
+                            <Label Text="{Binding Surname}"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
