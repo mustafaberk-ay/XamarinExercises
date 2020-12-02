@@ -1,0 +1,14 @@
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\bin\Debug\netstandard2.0\DersProva.deps.json
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\bin\Debug\netstandard2.0\DersProva.dll
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\bin\Debug\netstandard2.0\ref\DersProva.dll
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\bin\Debug\netstandard2.0\DersProva.pdb
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\DersProva.csprojAssemblyReference.cache
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\DersProva.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\DersProva.AssemblyInfo.cs
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\DersProva.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\DersProva.dll
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\ref\DersProva.dll
+C:\Users\aymus\source\repos\DersProva\DersProva\DersProva\obj\Debug\netstandard2.0\DersProva.pdb

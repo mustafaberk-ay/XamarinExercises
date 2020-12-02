@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DersProva.MainPage"
+    xmlns:person ="clr-namespace:DersProva">
+
+    <ContentPage.BindingContext>
+        <person:Person/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <!--<StackLayout>
+        <Entry Placeholder="Isminiz" x:Name="entryName"/>
+        <Button Text="Karsila" Clicked="Button_Clicked"/>
+        <Label x:Name="lblName"/>
+    </StackLayout>-->
+
+    <!--<StackLayout Orientation="Horizontal">
+        <Label Text="label1"/>
+        <Label Text="label3"/>
+    </StackLayout>-->
+
+    <!--<StackLayout>
+        <StackLayout.Orientation>
+            Horizontal
+        </StackLayout.Orientation>
+    </StackLayout>-->
+
+    <!--<StackLayout>
+            <Entry x:Name="entryName" Placeholder="Isminiz"/>
+            <Label Text="{Binding Source={x:Reference entryName}, Path=Text}"/>
+        </StackLayout>-->
+
+    <StackLayout>
+        <Label Text="{Binding Name}"/>
+        <Label Text="{Binding Surname}"/>
+    </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
