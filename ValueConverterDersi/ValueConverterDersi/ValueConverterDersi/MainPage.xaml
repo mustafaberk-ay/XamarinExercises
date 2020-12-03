@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ValueConverterDersi.MainPage"
+             xmlns:local ="clr-namespace:ValueConverterDersi">
+    
+    <ContentPage.Resources>
+        <local:BoolToColor x:Key="booltocolor"/>
+    </ContentPage.Resources>
+
+    <StackLayout Orientation="Horizontal">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="9*"/>
+            </Grid.ColumnDefinitions>
+            <CheckBox Grid.Row="0" Grid.Column="0" IsChecked="False" VerticalOptions="Start" x:Name="checkBoxName" ></CheckBox>
+            <Label x:Name="lblLisans" Text="Lisans Kosullarini Kabul Ediyorum." Grid.Row="0" Grid.Column="1" TextColor="{Binding Source={x:Reference checkBoxName}, Path=IsChecked, Converter={StaticResource booltocolor}}"/>
+        </Grid>
+        
+        
+    </StackLayout>
+
+</ContentPage>

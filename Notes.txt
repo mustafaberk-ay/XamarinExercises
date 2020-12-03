@@ -1,4 +1,4 @@
-GitHub'a dosya ekleme kodlari
+git GitHub'a dosya ekleme kodlari
 git add .
 git commit -m "initialize"
 git push -u origin master
