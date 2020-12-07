@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PickerDersi.MainPage">
+
+    <StackLayout>
+        <Picker x:Name="picker" SelectedIndexChanged="picker_SelectedIndexChanged">
+            <Picker.Items>
+                <!--<x:String>Item 1</x:String>
+                <x:String>Item 2</x:String>
+                <x:String>Item 3</x:String>
+                <x:String>Item 4</x:String>
+                <x:String>Item 5</x:String>-->
+            </Picker.Items>
+        </Picker>
+        
+        <Button Text="Sec" Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

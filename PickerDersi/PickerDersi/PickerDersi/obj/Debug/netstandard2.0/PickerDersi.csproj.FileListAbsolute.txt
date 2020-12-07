@@ -1,0 +1,14 @@
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\bin\Debug\netstandard2.0\PickerDersi.deps.json
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\bin\Debug\netstandard2.0\PickerDersi.dll
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\bin\Debug\netstandard2.0\ref\PickerDersi.dll
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\bin\Debug\netstandard2.0\PickerDersi.pdb
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\PickerDersi.csprojAssemblyReference.cache
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\PickerDersi.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\PickerDersi.AssemblyInfo.cs
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\PickerDersi.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\PickerDersi.dll
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\ref\PickerDersi.dll
+C:\Users\aymus\source\repos\PickerDersi\PickerDersi\PickerDersi\obj\Debug\netstandard2.0\PickerDersi.pdb
