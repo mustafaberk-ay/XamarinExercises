@@ -1,0 +1,14 @@
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\bin\Debug\netstandard2.0\ProgressBarDersi.deps.json
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\bin\Debug\netstandard2.0\ProgressBarDersi.dll
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\bin\Debug\netstandard2.0\ref\ProgressBarDersi.dll
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\bin\Debug\netstandard2.0\ProgressBarDersi.pdb
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\ProgressBarDersi.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\ProgressBarDersi.AssemblyInfo.cs
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\ProgressBarDersi.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\ProgressBarDersi.dll
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\ref\ProgressBarDersi.dll
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\ProgressBarDersi.pdb
+C:\Users\aymus\source\repos\ProgressBarDersi\ProgressBarDersi\ProgressBarDersi\obj\Debug\netstandard2.0\ProgressBarDersi.csprojAssemblyReference.cache

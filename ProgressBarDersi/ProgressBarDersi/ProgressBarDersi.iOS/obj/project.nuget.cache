@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5TpxaSXeIaYlquHwTbnAby+nQGTy6fhUiYQ3ubt3Obaa1OMs6qiJkUnvDiUDUxDTW6fv/UmLnyx4M91ezeSyXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aymus\\source\\repos\\ProgressBarDersi\\ProgressBarDersi\\ProgressBarDersi.iOS\\ProgressBarDersi.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
