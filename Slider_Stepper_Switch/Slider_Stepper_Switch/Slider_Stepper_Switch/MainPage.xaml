@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Slider_Stepper_Switch.MainPage">
+
+    <StackLayout Margin="10">
+        <Slider Minimum="0" Maximum="360" Value="0.3" x:Name="slider" MaximumTrackColor="Red" MinimumTrackColor="Blue" ThumbColor="Green" BackgroundColor="Orange"/>
+        <!--<Label Text="{Binding Source={x:Reference slider}, Path=Value}"/>-->
+        <Label Text="Hello World!" FontSize="30" Margin="20" Rotation="{Binding Source={x:Reference slider}, Path=Value}"/>
+        
+        <Stepper Minimum="0" Maximum="10" Increment="2" Value="3" x:Name="stepper"/>
+        <Label Text="1 ile 10 arasi bir deger girin"/>
+        <Label Text="{Binding Source={x:Reference stepper}, Path=Value}" FontSize="25"/>
+
+        <Switch x:Name="swtch1" HorizontalOptions="Center" Toggled="swtch1_Toggled"/>
+        <Label x:Name="label" FontSize="30" TextColor="Turquoise" HorizontalOptions="CenterAndExpand" Text="Simdilik Kapali"/>
+
+        <WebView Source="https://tureng.com/en/turkish-english" WidthRequest="250" HeightRequest="250" MinimumWidthRequest="100" MinimumHeightRequest="100"/>
+
+        <TimePicker Time="21:05:00" Format="T"/>
+    </StackLayout>
+
+</ContentPage>
