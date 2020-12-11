@@ -1,0 +1,14 @@
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\bin\Debug\netstandard2.0\SearchBarDersi.deps.json
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\bin\Debug\netstandard2.0\SearchBarDersi.dll
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\bin\Debug\netstandard2.0\ref\SearchBarDersi.dll
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\bin\Debug\netstandard2.0\SearchBarDersi.pdb
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\SearchBarDersi.csprojAssemblyReference.cache
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\SearchBarDersi.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\SearchBarDersi.AssemblyInfo.cs
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\SearchBarDersi.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\SearchBarDersi.dll
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\ref\SearchBarDersi.dll
+C:\Users\aymus\source\repos\SearchBarDersi\SearchBarDersi\SearchBarDersi\obj\Debug\netstandard2.0\SearchBarDersi.pdb
