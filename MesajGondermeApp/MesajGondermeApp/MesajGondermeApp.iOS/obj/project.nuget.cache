@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CPae8gqvOugYx9Ij2IlDJIFMICCZLWqJ7np3TAoD6REnrs+kDkDPZbw/PEO6Hoi4e158O+pxvaAya4LE0Z7+oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aymus\\source\\repos\\MesajGondermeApp\\MesajGondermeApp\\MesajGondermeApp.iOS\\MesajGondermeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aymus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\aymus\\.nuget\\packages\\xamarin.essentials\\1.6.0-rc1\\xamarin.essentials.1.6.0-rc1.nupkg.sha512",
+    "C:\\Users\\aymus\\.nuget\\packages\\xamarin.forms\\5.0.0.1791-pre5\\xamarin.forms.5.0.0.1791-pre5.nupkg.sha512"
+  ],
+  "logs": []
+}

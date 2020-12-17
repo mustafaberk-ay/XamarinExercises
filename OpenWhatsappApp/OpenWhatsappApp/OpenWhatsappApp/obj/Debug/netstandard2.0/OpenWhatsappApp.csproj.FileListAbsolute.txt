@@ -1,0 +1,14 @@
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\bin\Debug\netstandard2.0\OpenWhatsappApp.deps.json
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\bin\Debug\netstandard2.0\OpenWhatsappApp.dll
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\bin\Debug\netstandard2.0\ref\OpenWhatsappApp.dll
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\bin\Debug\netstandard2.0\OpenWhatsappApp.pdb
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\OpenWhatsappApp.csprojAssemblyReference.cache
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\OpenWhatsappApp.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\OpenWhatsappApp.AssemblyInfo.cs
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\OpenWhatsappApp.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\OpenWhatsappApp.dll
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\ref\OpenWhatsappApp.dll
+C:\Users\aymus\source\repos\OpenWhatsappApp\OpenWhatsappApp\OpenWhatsappApp\obj\Debug\netstandard2.0\OpenWhatsappApp.pdb

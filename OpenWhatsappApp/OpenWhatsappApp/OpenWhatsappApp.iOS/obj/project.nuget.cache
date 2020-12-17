@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p93672DQkDLbnGfgDwNlS7P2gsL95j0qn0Hp8iAa++kYkptvqZzyal3L96yZMwk5fa2egzGe+5Xfy/HJtTlzow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aymus\\source\\repos\\OpenWhatsappApp\\OpenWhatsappApp\\OpenWhatsappApp.iOS\\OpenWhatsappApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "C:\\Users\\aymus\\.nuget\\packages\\xamarin.forms.openwhatsapp\\1.0.1\\xamarin.forms.openwhatsapp.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

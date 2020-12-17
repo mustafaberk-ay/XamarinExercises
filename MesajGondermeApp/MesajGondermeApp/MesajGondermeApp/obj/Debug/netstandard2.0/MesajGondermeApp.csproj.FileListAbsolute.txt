@@ -1,0 +1,13 @@
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\MesajGondermeApp.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\MesajGondermeApp.AssemblyInfo.cs
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\MesajGondermeApp.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\MesajGondermeApp.dll
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\ref\MesajGondermeApp.dll
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\MesajGondermeApp.pdb
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\bin\Debug\netstandard2.0\MesajGondermeApp.deps.json
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\bin\Debug\netstandard2.0\MesajGondermeApp.dll
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\bin\Debug\netstandard2.0\ref\MesajGondermeApp.dll
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\bin\Debug\netstandard2.0\MesajGondermeApp.pdb
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp\obj\Debug\netstandard2.0\XamlC.stamp

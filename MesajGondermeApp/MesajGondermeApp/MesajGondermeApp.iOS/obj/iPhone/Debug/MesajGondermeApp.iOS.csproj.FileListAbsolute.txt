@@ -1,0 +1,9 @@
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\build-signature\signature
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\MesajGondermeApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\MesajGondermeApp\MesajGondermeApp\MesajGondermeApp.iOS\obj\iPhone\Debug\MesajGondermeApp.iOS.csprojAssemblyReference.cache
