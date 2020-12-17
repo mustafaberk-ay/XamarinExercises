@@ -1,0 +1,14 @@
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\bin\Debug\netstandard2.0\MailGondermeApp.deps.json
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\bin\Debug\netstandard2.0\MailGondermeApp.dll
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\bin\Debug\netstandard2.0\ref\MailGondermeApp.dll
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\bin\Debug\netstandard2.0\MailGondermeApp.pdb
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\MailGondermeApp.csprojAssemblyReference.cache
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\MailGondermeApp.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\MailGondermeApp.AssemblyInfo.cs
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\MailGondermeApp.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\MailGondermeApp.dll
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\ref\MailGondermeApp.dll
+C:\Users\aymus\source\repos\MailGondermeApp\MailGondermeApp\MailGondermeApp\obj\Debug\netstandard2.0\MailGondermeApp.pdb
