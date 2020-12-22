@@ -1,0 +1,13 @@
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\bin\Debug\netcoreapp3.1\LinqTemelleri1.exe
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\bin\Debug\netcoreapp3.1\LinqTemelleri1.deps.json
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\bin\Debug\netcoreapp3.1\LinqTemelleri1.runtimeconfig.json
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\bin\Debug\netcoreapp3.1\LinqTemelleri1.runtimeconfig.dev.json
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\bin\Debug\netcoreapp3.1\LinqTemelleri1.dll
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\bin\Debug\netcoreapp3.1\LinqTemelleri1.pdb
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\obj\Debug\netcoreapp3.1\LinqTemelleri1.csprojAssemblyReference.cache
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\obj\Debug\netcoreapp3.1\LinqTemelleri1.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\obj\Debug\netcoreapp3.1\LinqTemelleri1.AssemblyInfo.cs
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\obj\Debug\netcoreapp3.1\LinqTemelleri1.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\obj\Debug\netcoreapp3.1\LinqTemelleri1.dll
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\obj\Debug\netcoreapp3.1\LinqTemelleri1.pdb
+C:\Users\aymus\source\repos\LinqTemelleri1\LinqTemelleri1\obj\Debug\netcoreapp3.1\LinqTemelleri1.genruntimeconfig.cache
