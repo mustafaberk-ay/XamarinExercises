@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jF0J//y0bTWriLDAUyE6BkZwZwscD/zB9rFUgrEWRAtP62n+okSnkoUpphQ8Y/X5B6Pvi8Gaa3FK0grEWVKxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aymus\\source\\repos\\TriggerDersi\\TriggerDersi\\TriggerDersi.iOS\\TriggerDersi.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

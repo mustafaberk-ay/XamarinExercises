@@ -1,0 +1,14 @@
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\bin\Debug\netstandard2.0\TriggerDersi.deps.json
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\bin\Debug\netstandard2.0\TriggerDersi.dll
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\bin\Debug\netstandard2.0\ref\TriggerDersi.dll
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\bin\Debug\netstandard2.0\TriggerDersi.pdb
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\TriggerDersi.csprojAssemblyReference.cache
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\TriggerDersi.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\TriggerDersi.AssemblyInfo.cs
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\TriggerDersi.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\TriggerDersi.dll
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\ref\TriggerDersi.dll
+C:\Users\aymus\source\repos\TriggerDersi\TriggerDersi\TriggerDersi\obj\Debug\netstandard2.0\TriggerDersi.pdb

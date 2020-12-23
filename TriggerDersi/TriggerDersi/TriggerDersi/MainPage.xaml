@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TriggerDersi.MainPage"
+             xmlns:local="clr-namespace:TriggerDersi">
+
+    <ContentPage.Resources>
+        <Style TargetType="Entry" x:Key="entryStyle1">
+            <Style.Triggers>
+                <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                    <Setter Property="BackgroundColor" Value="Red"/>
+                    <Setter Property="TextColor" Value="White"/>
+                </Trigger>
+                <Trigger TargetType="Entry" Property="IsFocused" Value="False">
+                    <Setter Property="BackgroundColor" Value="White"/>
+                    <Setter Property="TextColor" Value="Black"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button">
+            <Style.Triggers>
+                <DataTrigger TargetType="Button" Binding="{Binding Source={x:Reference entry1}, Path=Text.Length}" Value="6">
+                    <Setter Property="IsEnabled" Value="True"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Entry" x:Key="entryStyle2">
+            <Style.Triggers>
+                <MultiTrigger TargetType="Entry">
+                    <MultiTrigger.Conditions>
+                        <BindingCondition Binding="{Binding Source={x:Reference entry2}, Path=IsFocused}" Value="True"/>
+                        <BindingCondition Binding="{Binding Source={x:Reference btnText}, Path=IsEnabled}" Value="True"/>
+                    </MultiTrigger.Conditions>
+                    <Setter Property="BackgroundColor" Value="Green"/>
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Entry" x:Key="entryStyle3">
+            <Style.Triggers>
+                <EventTrigger Event="TextChanged">
+                    <local:MyAction/>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </ContentPage.Resources>
+    
+    <StackLayout>
+        <Entry x:Name="entry1" Placeholder="6 tane rakam yazin" Style="{StaticResource entryStyle1}"/>
+        <Entry x:Name="entry2" Placeholder="Yaz bir seyler" Style="{StaticResource entryStyle2}"/>
+        <Entry x:Name="entry3" Placeholder="Yaz bir seyler" Style="{StaticResource entryStyle3}"/>
+        <Button x:Name="btnText" Text="Tamam" IsEnabled="False"/>
+    </StackLayout>
+
+</ContentPage>
