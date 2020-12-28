@@ -1,0 +1,14 @@
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\bin\Debug\netstandard2.0\BindableDersi.deps.json
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\bin\Debug\netstandard2.0\BindableDersi.dll
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\bin\Debug\netstandard2.0\ref\BindableDersi.dll
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\bin\Debug\netstandard2.0\BindableDersi.pdb
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\BindableDersi.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\BindableDersi.AssemblyInfo.cs
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\BindableDersi.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\BindableDersi.dll
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\ref\BindableDersi.dll
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\BindableDersi.pdb
+C:\Users\aymus\source\repos\BindableDersi\BindableDersi\BindableDersi\obj\Debug\netstandard2.0\BindableDersi.csprojAssemblyReference.cache
